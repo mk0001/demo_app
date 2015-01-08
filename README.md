@@ -1,1 +1,3 @@
-Demonstration app Rubi on Rails
+Demonstration app 
+
+Ruby on Rails
